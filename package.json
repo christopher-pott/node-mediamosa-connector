@@ -1,0 +1,20 @@
+{
+  "name": "mediamosa",
+  "version": "1.0.0",
+  "description": "MediaMosa connector class",
+  "main": "MediaMosa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "christopher.pott@smk.dk",
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.1.2",
+    "xml2js": "^0.4.4"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "istanbul": "^0.3.5",
+    "mocha": "^2.0.1"
+  }
+}
